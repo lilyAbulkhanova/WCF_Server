@@ -1,0 +1,6 @@
+D:\repos\WCF\Contacts\bin\Debug\Contacts.dll
+D:\repos\WCF\Contacts\bin\Debug\Contacts.pdb
+D:\repos\WCF\Contacts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+D:\repos\WCF\Contacts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\repos\WCF\Contacts\obj\Debug\Contacts.dll
+D:\repos\WCF\Contacts\obj\Debug\Contacts.pdb

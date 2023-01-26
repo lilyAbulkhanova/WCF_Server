@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServer", "WCFServer\WCFServer.csproj", "{C83AEC71-5096-4D97-B41B-2DFAB382A9B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFClient", "WCFClient\WCFClient.csproj", "{4ECB0997-478F-4755-84E8-838A63EFA369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contacts\Contracts.csproj", "{CFDDD9E8-7BF2-49A0-A6C7-4856E61359E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83AEC71-5096-4D97-B41B-2DFAB382A9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83AEC71-5096-4D97-B41B-2DFAB382A9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83AEC71-5096-4D97-B41B-2DFAB382A9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83AEC71-5096-4D97-B41B-2DFAB382A9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECB0997-478F-4755-84E8-838A63EFA369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECB0997-478F-4755-84E8-838A63EFA369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECB0997-478F-4755-84E8-838A63EFA369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECB0997-478F-4755-84E8-838A63EFA369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDDD9E8-7BF2-49A0-A6C7-4856E61359E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDD9E8-7BF2-49A0-A6C7-4856E61359E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDD9E8-7BF2-49A0-A6C7-4856E61359E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDD9E8-7BF2-49A0-A6C7-4856E61359E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0638AC-032D-4013-9380-54B316DCC1AD}
+	EndGlobalSection
+EndGlobal

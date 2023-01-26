@@ -1,0 +1,15 @@
+D:\repos\WCF\WCFServer\bin\Debug\WCFServer.exe.config
+D:\repos\WCF\WCFServer\bin\Debug\WCFServer.exe
+D:\repos\WCF\WCFServer\bin\Debug\WCFServer.pdb
+D:\repos\WCF\WCFServer\bin\Debug\Contacts.dll
+D:\repos\WCF\WCFServer\bin\Debug\Contacts.pdb
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.csproj.AssemblyReference.cache
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.csproj.SuggestedBindingRedirects.cache
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.csproj.CopyComplete
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.exe
+D:\repos\WCF\WCFServer\obj\Debug\WCFServer.pdb
+D:\repos\WCF\WCFServer\bin\Debug\EntityFramework.dll
+D:\repos\WCF\WCFServer\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\WCF\WCFServer\bin\Debug\EntityFramework.xml
+D:\repos\WCF\WCFServer\bin\Debug\EntityFramework.SqlServer.xml
